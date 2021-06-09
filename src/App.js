@@ -34,7 +34,7 @@ class App extends React.Component {
 	
 	pickClick = () => {
 		console.log('Picking Works');
-			Confetti();
+			//Confetti();
   };
 
   randomColor() {
