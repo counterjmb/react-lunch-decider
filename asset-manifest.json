@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/random-lunch-generator/static/css/main.1870a113.chunk.css",
-    "main.js": "/random-lunch-generator/static/js/main.c737829b.chunk.js",
-    "main.js.map": "/random-lunch-generator/static/js/main.c737829b.chunk.js.map",
-    "runtime-main.js": "/random-lunch-generator/static/js/runtime-main.b3bffc60.js",
-    "runtime-main.js.map": "/random-lunch-generator/static/js/runtime-main.b3bffc60.js.map",
-    "static/js/2.f2133100.chunk.js": "/random-lunch-generator/static/js/2.f2133100.chunk.js",
-    "static/js/2.f2133100.chunk.js.map": "/random-lunch-generator/static/js/2.f2133100.chunk.js.map",
-    "static/js/3.90770d7e.chunk.js": "/random-lunch-generator/static/js/3.90770d7e.chunk.js",
-    "static/js/3.90770d7e.chunk.js.map": "/random-lunch-generator/static/js/3.90770d7e.chunk.js.map",
-    "index.html": "/random-lunch-generator/index.html",
-    "static/css/main.1870a113.chunk.css.map": "/random-lunch-generator/static/css/main.1870a113.chunk.css.map",
-    "static/js/2.f2133100.chunk.js.LICENSE.txt": "/random-lunch-generator/static/js/2.f2133100.chunk.js.LICENSE.txt"
+    "main.css": "/react-lunch-decider/static/css/main.1870a113.chunk.css",
+    "main.js": "/react-lunch-decider/static/js/main.73fba68b.chunk.js",
+    "main.js.map": "/react-lunch-decider/static/js/main.73fba68b.chunk.js.map",
+    "runtime-main.js": "/react-lunch-decider/static/js/runtime-main.5be386d8.js",
+    "runtime-main.js.map": "/react-lunch-decider/static/js/runtime-main.5be386d8.js.map",
+    "static/js/2.2955fecf.chunk.js": "/react-lunch-decider/static/js/2.2955fecf.chunk.js",
+    "static/js/2.2955fecf.chunk.js.map": "/react-lunch-decider/static/js/2.2955fecf.chunk.js.map",
+    "static/js/3.d2252d94.chunk.js": "/react-lunch-decider/static/js/3.d2252d94.chunk.js",
+    "static/js/3.d2252d94.chunk.js.map": "/react-lunch-decider/static/js/3.d2252d94.chunk.js.map",
+    "index.html": "/react-lunch-decider/index.html",
+    "static/css/main.1870a113.chunk.css.map": "/react-lunch-decider/static/css/main.1870a113.chunk.css.map",
+    "static/js/2.2955fecf.chunk.js.LICENSE.txt": "/react-lunch-decider/static/js/2.2955fecf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3bffc60.js",
-    "static/js/2.f2133100.chunk.js",
+    "static/js/runtime-main.5be386d8.js",
+    "static/js/2.2955fecf.chunk.js",
     "static/css/main.1870a113.chunk.css",
-    "static/js/main.c737829b.chunk.js"
+    "static/js/main.73fba68b.chunk.js"
   ]
 }
