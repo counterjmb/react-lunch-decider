@@ -1,6 +1,6 @@
 {
-  "name": "random-lunch-generator",
-	"homepage": "https://counterjmb.github.io/random-lunch-generator",
+  "name": "react-lunch-generator",
+	"homepage": "https://counterjmb.github.io/react-lunch-decider",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
