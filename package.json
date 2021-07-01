@@ -1,6 +1,6 @@
 {
   "name": "react-lunch-generator",
-	"homepage": "https://counterjmb.github.io/react-lunch-decider",
+  "homepage": "https://counterjmb.github.io/react-lunch-decider",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,10 +16,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-		"predeploy": "npm run build", 
-    "deploy": "gh-pages -d build", 
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "generate-docs": "jsdoc -c conf/jsdoc_conf.json",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -39,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.7"
   }
 }
